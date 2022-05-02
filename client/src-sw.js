@@ -29,7 +29,7 @@ registerRoute(({ request }) => request.mode === 'navigate', pageCache);
 
 
 
-registerRoute( ({ request }) => variableForArrayHere.ARRAY_METHOD_HERE(variableForDestinationHere),
+registerRoute(({ request }) => variableForArrayHere.ARRAY_METHOD_HERE(variableForDestinationHere),
   new CLASSNAME_TO_INSTANTIATE_HERE({
     cacheName: 'asset-cache',
     plugins: [
