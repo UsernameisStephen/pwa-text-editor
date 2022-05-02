@@ -11,6 +11,7 @@ This is a PWA text editor built using webpack and made available online and offl
 * [Usage](#usage)
 * [License](#license)
 * [Tests](#tests)
+* [Contributions](#contributions)
 * [Questions](#questions)
 
 ## Installation
@@ -36,7 +37,9 @@ This app is covered by a MIT license. For more information please checkout this 
 
 No test created for this assignment.
 
+## Contributions
 
+Gary Almes
 
 ## Questions
 Feel free to contact me at:
