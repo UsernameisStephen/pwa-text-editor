@@ -1,4 +1,4 @@
-# text-editor
+# PWA Text Editor
 
 
 ## Description
