@@ -24,7 +24,7 @@ export const putDb = async (content) => {
   const tx = jateDb.transaction('jate', 'readwrite');
 
   // Now create a variable for the store
-  const STORE_VAR = tx.objectStore('jate');
+  const store = tx.objectStore('jate');
 
   // Now create a variable named "request" and have it perform the update
   const request = store.put({ id: 1, value: content });

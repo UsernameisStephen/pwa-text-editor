@@ -28,9 +28,9 @@ warmStrategyCache({
 registerRoute(({ request }) => request.mode === 'navigate', pageCache);
 
 
-
-registerRoute(({ request }) => variableForArrayHere.ARRAY_METHOD_HERE(variableForDestinationHere),
-  new CLASSNAME_TO_INSTANTIATE_HERE({
+// Set up a service worker to intercept and cache network requests
+registerRoute( ({ request }) => ['style', 'script', 'worker'].includes(request.destination),
+new StaleWhileRevalidate({
     cacheName: 'asset-cache',
     plugins: [
       new CacheableResponsePlugin({
