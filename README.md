@@ -1,10 +1,5 @@
 # PWA Text Editor
 
-
-## Description
-
-This is a PWA text editor built using webpack and made available online and offline.
-
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
@@ -13,6 +8,10 @@ This is a PWA text editor built using webpack and made available online and offl
 * [Tests](#tests)
 * [Contributions](#contributions)
 * [Questions](#questions)
+
+## Description
+
+This is a PWA text editor built using indexedDB, webpack, workbox and made available online and offline.
 
 ## Installation
 
