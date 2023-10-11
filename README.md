@@ -22,7 +22,7 @@ No installation needed. Once you click on the application link you will be sent 
 
 This application is a simple text editor. It can be used both online and offline and it can be installed on the your computer.
 
-Click [here](https://obscure-buffalo.herokuapp.com/) to visit the application.
+Click [here]([https://obscure-buffalo.herokuapp.com/](https://thawing-inlet-50218-c3400118fdc2.herokuapp.com/)) to visit the application.
 
 
 ## License
